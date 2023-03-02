@@ -645,7 +645,7 @@
         {
           "bind": "/mnt/MOVIES",
           "container": "/movies"
-        }
+        },
         {
           "bind": "/mnt/MUSIC",
           "container": "/music"
